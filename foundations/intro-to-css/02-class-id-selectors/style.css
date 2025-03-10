@@ -1,0 +1,22 @@
+p.odd {
+    background-color: rgb(240, 75, 75);
+
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  
+}
+
+.cooler {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#number2 {
+    color: rgb(31, 65, 161);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
